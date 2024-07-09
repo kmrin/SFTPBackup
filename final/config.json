@@ -1,0 +1,17 @@
+{
+    "archive_name": "world_backup",
+
+    "sftp_config": {
+        "host": "",
+        "username": "",
+        "password": "",
+        "port": 22,
+        "known_hosts": null
+    },
+
+    "data": [
+        "world",
+		"world_nether",
+		"world_the_end"
+    ]
+}
